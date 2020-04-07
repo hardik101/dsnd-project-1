@@ -13,23 +13,30 @@ This repo contains all the project files for DataScience nano degree program of 
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-However, if you can also look into 'requirements.txt' file if you are missing specific module in your local enviroment.
+However, You can also look into 'requirements.txt' file if you are missing specific package in your local enviroment.
 I have used Python version 3.7.7 in my local machine 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using airbnb datasets for two cities - [Boston](https://www.kaggle.com/airbnb/boston/data) and [Seattle](https://www.kaggle.com/airbnb/seattle) to better understand:
+For this project, I have used airbnb datasets for [Berlin](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) 
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+I have tried to answer following questions through analysis of above dataset:
+
+1. How prices for all Berlin's Airbnb fluctuate throughout the year 2019? 
+2. What are the peak/off-peak times for Airbnb rental prices in Berlin?
+3. Who are the hosts with the most number of Airbnb listings?
+4. Which neighborhoods have the most number of listing in Berlin?
+5. Which are the most expensive neighborhoods in Berlin?
+6. Which are the popular neighborhoods based on the avg number of reviews
+7. Which type of room has the majority of listings in Berlin Airbnb?
+8. What are the features that influence the price in Berlin Airbnb? Can we predict the rental price of new listings based on a predictive model?
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
+There are 3 notebooks available here to showcase work related to the above questions.  
+1. Notebook 1 provides basic understanding of the data 
+2. Notebook 2 provides the walkthough for finding the answers pertaining to the questions listed above. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
@@ -39,4 +46,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Kaggle and Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like!
+Must give credit to Kaggle and Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data).  Otherwise, feel free to use the code here as you would like!
