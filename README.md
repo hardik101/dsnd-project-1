@@ -1,6 +1,6 @@
 This repo contains all the project files for DataScience nano degree program of Udacity as per the requirement of first project [Write a Data Science Blot Post]
 
-The accompanying medium post can be found [here](https://medium.com/@hardikbalar101).
+The accompanying medium post can be found [here](https://medium.com/@hardikbalar101/a-closer-look-at-airbnb-listing-prices-and-why-you-should-care-4a8e4474aead).
 
 ### Table of Contents
 
@@ -22,10 +22,11 @@ For this project, I have used airbnb datasets for [Berlin](https://www.kaggle.co
 
 I have tried to answer following questions through analysis of above dataset:
 
-1. Average price a single person has to pay for Berlin's Airbnb apartment?
-2. Which neighborhoods have the most number of listing in Berlin?
-3. What is the distribution of Apartment accomodation size in Berlin?
-4. Which type of properties (private rooms, entire aprartment etc.) has the majority of listings in Berlin Airbnb?
+1. The average price a single person has to pay for Berlin's Airbnb apartment?
+2. Which neighbourhoods have the most number of listing in Berlin?
+3. What is the distribution of Apartment accommodation size in Berlin?
+4. Which type of properties (private rooms, entire apartments etc.) has the majority of listings in Berlin Airbnb?
+
 
 ## File Descriptions <a name="files"></a>
 
@@ -35,7 +36,7 @@ The corrresponding datasets/csv files can be found under 'data/berlin' folder.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available[here](https://medium.com/@hardikbalar101).
+The main findings of the code can be found at the post available[here](https://medium.com/@hardikbalar101/a-closer-look-at-airbnb-listing-prices-and-why-you-should-care-4a8e4474aead).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
