@@ -1,6 +1,6 @@
 This repo contains all the project files for DataScience nano degree program of Udacity as per the requirement of first project [Write a Data Science Blot Post]
 
-The accompanying medium blog post can be found [here] (https://medium.com/@hardikbalar101/a-closer-look-at-airbnb-listing-prices-and-why-you-should-care-4a8e4474aead).
+The accompanying medium blog post can be found [here](https://medium.com/@hardikbalar101/a-closer-look-at-airbnb-listing-prices-and-why-you-should-care-4a8e4474aead).
 
 ### Table of Contents
 
